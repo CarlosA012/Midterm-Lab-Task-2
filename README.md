@@ -34,16 +34,15 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 
 - Before Cleaning
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/5528199dcd6c8022b6bd97167e4a797b7e081f6f/Midterm%20Lab%20Task%202/images/raw%20data.png)
+<img src="images/raw data.png" alt="Alt Text" width="600">
 
 - After Cleaning
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/50d70db1f0974bb826213bbf4b78e7f66858d6c0/Midterm%20Lab%20Task%202/images/Unclean%20DS%20Jobs.png)
+<img src="images/Unclean DS Jobs.png" alt="Alt Text" width="600">
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/5a4647d1557285a89768a75115f450f32e3dadd1/Midterm%20Lab%20Task%202/images/Unclean%20DS%20Jobs%202.png)
+<img src="images/Unclean DS Jobs 2.png" alt="Alt Text" width="600">
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/bed38cb17fb84615615af6fc29d7e535dc1dbfdb/Midterm%20Lab%20Task%202/images/Unclean%20DS%20Jobs%203.png)
-
+<img src="images/Unclean DS Jobs 3.png" alt="Alt Text" width="600">
 
 ## Part 2: Reshape and Group the Tables
 
@@ -91,18 +90,12 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 ## Screenshots of Queries
 - Screenshots:
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/698ee43bae1a9b9620eaea30577239605f91ea89/Midterm%20Lab%20Task%202/images/Sal%20By%20Role%20Type%20dup.png)
+<img src="images/Sal By Role Type dup.png" alt="Alt Text" width="600">
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/2416f1bb2c6aeea780a1e11207010896a5c47a3b/Midterm%20Lab%20Task%202/images/Sal%20By%20Role%20Size%20ref.png)
+<img src="images/Sal By Role Size ref.png" alt="Alt Text" width="600">
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/f6f45e254037e154bd73dc3682335a071f53bf07/Midterm%20Lab%20Task%202/images/Sal%20By%20State%20ref.png)
+<img src="images/Sal By State ref.png" alt="Alt Text" width="600">
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/1c6d099d8cff7b7159b05998928765ea6513a356/Midterm%20Lab%20Task%202/images/Sal%20By%20Size%20Role%20Type%20dup.png)
+<img src="images/Sal By Size Role Type dup.png" alt="Alt Text" width="600">
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/84fdb949a7038628c4f36222420aa3039f0cc3da/Midterm%20Lab%20Task%202/images/Unclean%20DS%20Jobs.png)
-
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/aba145300fbe9cf8053712bf1f8e57b9be5b535f/Midterm%20Lab%20Task%202/images/Unclean%20DS%20Jobs%202.png)
-
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/adf03414c03a553c07cd1831fbd5113ef341920c/Midterm%20Lab%20Task%202/images/Unclean%20DS%20Jobs%203.png)
-
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/3fdbc5a87a3dd0304b429c43cfd8c578d66ac8c6/Midterm%20Lab%20Task%202/images/Query%20Dependenciess.png)
+<img src="images/Query Dependenciess.png" alt="Alt Text" width="750">
